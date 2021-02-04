@@ -1,0 +1,19 @@
+{
+  "name": "encoderdecoder",
+  "version": "1.0.0",
+  "description": "encoding and decoding algorithms Encode the image file into base64, hexadecimal formats from terminal type the command xxd -p <<< \"Blockchain Developer\"",
+  "main": "img2hex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakethoney/encoderdecoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakethoney/encoderdecoder/issues"
+  },
+  "homepage": "https://github.com/sakethoney/encoderdecoder#readme"
+}
