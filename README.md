@@ -16,3 +16,7 @@ xxd -p -dataencoded.txt datadecodec.txt
 
 Image file encoded:
 xxd -p Agastya.JPG  AgastyaEncoded.txt
+
+To run the project
+node img2hex.js
+this would overwrite existing files
